@@ -2,9 +2,13 @@
 
 [Birthday Buddy](https://www.figma.com/file/e2vsLe9DMnXZIygNHkwGL1/Birthday-buddy?node-id=0%3A1&t=AGNWdO5QQGOoNCfD-1)
 
-## Steps
+## Summary
 
-- don't worry about CSS, checkout example image
+A React project demonstrating the **useState React Hook**.
+
+This was built as part of the Udemy'React 18 Tutorial and Projects Course'.
+
+## Steps
 
 #### Import Data
 
